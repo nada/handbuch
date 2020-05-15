@@ -9,4 +9,4 @@
 
 Aktualisieren der Version auf https://feinheit.ch/handbuch/index.html:
 
-    ./compile
+    ./deploy
