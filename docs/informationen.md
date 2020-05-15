@@ -11,7 +11,7 @@ Weitere Details findest Du im [Arbeitszeitreglement](https://drive.google.com/dr
 ## Gehaltssystem und Persönliche Entwicklungsgespräche (in Arbeit)
 
 * Ablauf PE-Gesprächsprozess
-* Gehaltsystem: https://docs.google.com/document/d/1hs3vW-_Mik0F9P3rOTVnNKyPlKuWJ-wBMDovV4gh7uE/edit
+* [Gehaltsystem](https://docs.google.com/document/d/1hs3vW-_Mik0F9P3rOTVnNKyPlKuWJ-wBMDovV4gh7uE/edit)
 
 ## Drucker/Scanner
 
@@ -21,17 +21,17 @@ Anleitung Installation Druckertreiber: https://drive.google.com/drive/search?q=d
 
 ## Ferien und Absenzen
 
-s. Policy Ferien und Absenzen: https://de.glassfrog.com/organizations/15492/orgnav/policies/10731016
+Die Regelung findest du in der [Policy Ferien und Absenzen](https://de.glassfrog.com/organizations/15492/orgnav/policies/10731016).
 
-Ferien in Workbench erfassen: Workbench / Logbuch / Abwesenheiten / +Abwesenheiten
+Ferien erfasst du am besten im [Abwesenheitskalender](https://workbench.feinheit.ch/report/absence-calendar/)
 
 Wenn deine Ferien auf zwei verschiedene Monate fallen, z.B. 25. April bis 5. Mai, dann macht es Sinn die Ferien in zwei separaten Meldungen zu erfassen. 5 Tage im April und 5 Tage im Mai. Somit behältst du bei der Jahresarbeitszeit-Übersicht einen besseren Überblick.
 
-Ausserordentliche Urlaube sind im Rahmen des Arbeitsvertrags und Arbeitsreglements geregelt
+Ausserordentliche Urlaube sind im Rahmen des Arbeitsvertrags und Arbeitsreglements geregelt.
 
 ## Einkäufe und Ausgaben
 
-Policy Einkäufe und Ausgaben: https://de.glassfrog.com/organizations/15492/orgnav/policies/10747699
+Die jeweils aktuelle Regelung findest du in der [Policy Einkäufe und Ausgaben](https://de.glassfrog.com/organizations/15492/orgnav/policies/10747699)
 
 ## Home Office
 
@@ -55,14 +55,14 @@ Feinheit verköstigt alle Mitarbeitenden zusätzlich mit Pausensnacks wie Schoko
 
 ## Privates Drucken und Briefmarken
 
-s. Policy Privates Drucken und Briefmarken https://de.glassfrog.com/organizations/15492/orgnav/policies/11254420
+[Policy Privates Drucken und Briefmarken](https://de.glassfrog.com/organizations/15492/orgnav/policies/11254420)
 
 ## Rauchen
 
 Das Rauchen zählt nicht zur Arbeitszeit, sondern unter deine Pausen.
 
 ## Spesen
-s. Spesenreglement: (in Arbeit)
+s. Spesenreglement: **(in Arbeit)**
 
 ### Zusatzinfos
 
@@ -82,20 +82,21 @@ Die gedruckten Spesenabrechnung inkl. Quittungen sind im Fächli «Spesen» zu d
 
 ## Info- & Lesezeit
 
-Siehe Policy Info- und Lesezeit: https://de.glassfrog.com/organizations/15492/orgnav/policies/11004238
-
-## Weiterbildungsaktivitäten
-
-Siehe Weiterbildungsaktivitäten: https://de.glassfrog.com/organizations/15492/orgnav/policies/10848071
+[Policy Info- und Lesezeit](https://de.glassfrog.com/organizations/15492/orgnav/policies/11004238)
 
 ## Weiterbildung
 
-Mit Ausnahme der Praktikanten haben alle Mitarbeitenden bei Feinheit nach Ablauf der Probezeit die Möglichkeit, ein dem Anstellungsgrad entsprechendes Pensum für Aus- und Weiterbildung zu beantragen. Bei 100% sind dies fünf Arbeitstage im Jahr.
+Die aktuelle Regelung findest Du in der [Policy Weiterbildungsaktivitäten](https://de.glassfrog.com/organizations/15492/orgnav/policies/10848071).
 
-Um die eigene Aus- und Weiterbildung im eigenen Interesse anzustossen, muss jede/r Mitarbeitende ein schriftliches Grobkonzept per E-Mail an den jeweiligen Teamleitenden einreichen, welches Inhalte wie Interesse, Ziele, Vorgehen, Zeitaufwand pro Woche, Vorteile für die Arbeit bei Feinheit etc. enthält.
+Die alte Regelung lautete wie folgt:
 
-Über den Zeitraum der Aus- und Weiterbildung entscheiden die Teamleitenden je nach Ressourcenkapazitäten.
-
-Wird in Absprache mit den Teamleitenden die Weiterbildung gutgeheissen, so bekommst du einen persönlichen, auf dein Pensum abgestimmten Weiterbildungsjob, worauf alle Stunden eingetragen werden, welche die Ziele des Grobkonzeptes verfolgen.
-
-Die Geschäftsleitung kann bei Bedarf den Inhalt und den Zeitpunkt der Weiterbildung festlegen.
+> Mit Ausnahme der Praktikanten haben alle Mitarbeitenden bei Feinheit nach Ablauf der Probezeit die Möglichkeit, ein dem Anstellungsgrad entsprechendes Pensum für Aus- und Weiterbildung zu beantragen. Bei 100% sind dies fünf Arbeitstage im Jahr.
+>
+> Um die eigene Aus- und Weiterbildung im eigenen Interesse anzustossen, muss jede/r Mitarbeitende ein schriftliches Grobkonzept per E-Mail an den jeweiligen Teamleitenden einreichen, welches Inhalte wie Interesse, Ziele, Vorgehen, Zeitaufwand pro Woche, Vorteile für die Arbeit bei Feinheit etc. enthält.
+>
+> Über den Zeitraum der Aus- und Weiterbildung entscheiden die Teamleitenden je nach Ressourcenkapazitäten.
+>
+> Wird in Absprache mit den Teamleitenden die Weiterbildung gutgeheissen, so bekommst du einen persönlichen, auf dein Pensum abgestimmten Weiterbildungsjob, worauf alle Stunden eingetragen werden, welche die Ziele des Grobkonzeptes verfolgen.
+>
+> Die Geschäftsleitung kann bei Bedarf den Inhalt und den Zeitpunkt der Weiterbildung festlegen.
+>

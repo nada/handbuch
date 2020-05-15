@@ -16,13 +16,13 @@ Die Firma Xpreneurs hat uns in Holacracy geschult und unterstützt uns noch imme
 
 Die detaillierten Accountabilities findest du im Glassfrog.
 
-* LeadLink: Der LeadLink hält den Kreis zusammen und nimmt Anfragen anderer Kreise entgegen. Er ist für die Rollenzuweisungen innerhalb des Kreises verantwortlich.
-* RepLink: Vertritt den Kreis gegen aussen.
-* Secretary: Planen der vom Kreis geforderten Meetings und benachrichtigen aller Kreismitglieder über die eingeplanten Zeiten und Orte. Eröffnen und Protokollieren der Meetings in Glassfrog.
-* Facilitator: Moderieren der von der Verfassung des Kreises geforderten Meetings.
-* Purpose: Was soll der Kreis/die Rolle bezwecken?
-* Accountabilities: Diese Aufgaben können explizit nur von dieser Rolle erwarten werden. Hält fest, was erledigt werden muss, jedoch nicht wie.
-* Domains: Schränkt Zugriffsrechte ein.
-* Policies: Sind für alle in diesem Kreis gültig.
-* Tactical Meeting: Operatives Arbeiten wird innerhalb des Kreises geplant und besprochen.
-* Governance Meeting: Rollen, Kreise, Accountabilities und Policies werden angepasst/definiert und Wahlen werden abgehalten.
+* **Lead Link**: Der LeadLink hält den Kreis zusammen und nimmt Anfragen anderer Kreise entgegen. Er ist für die Rollenzuweisungen innerhalb des Kreises verantwortlich.
+* **Rep Link**: Vertritt den Kreis gegen aussen.
+* **Secretary**: Planen der vom Kreis geforderten Meetings und benachrichtigen aller Kreismitglieder über die eingeplanten Zeiten und Orte. Eröffnen und Protokollieren der Meetings in Glassfrog.
+* **Facilitator**: Moderieren der von der Verfassung des Kreises geforderten Meetings.
+* **Purpose**: Was soll der Kreis/die Rolle bezwecken?
+* **Accountabilities**: Diese Aufgaben können explizit nur von dieser Rolle erwarten werden. Hält fest, was erledigt werden muss, jedoch nicht wie.
+* **Domains**: Schränkt Zugriffsrechte ein.
+* **Policies**: Sind für alle in diesem Kreis gültig.
+* **Tactical Meeting**: Operatives Arbeiten wird innerhalb des Kreises geplant und besprochen.
+* **Governance Meeting**: Rollen, Kreise, Accountabilities und Policies werden angepasst/definiert und Wahlen werden abgehalten.

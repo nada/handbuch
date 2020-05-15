@@ -1,4 +1,4 @@
-site_name: Mitarbeiter*innenhandbuch
+site_name: Mitarbeiter-innenhandbuch
 site_author: Feinheit AG
 site_url: https://docs.feinheit.ch/handbuch/
 use_directory_urls: false
@@ -9,3 +9,14 @@ lang:
 markdown_extensions:
   - footnotes
   - smarty
+nav:
+- Willkommen!: index.md
+- geschichte.md
+- strategisch-horizontal-mutig.md
+- philosophie.md
+- organisation.md
+- holacracy.md
+- tools.md
+- informationen.md
+- projektarbeit.md
+- sicherheit.md
