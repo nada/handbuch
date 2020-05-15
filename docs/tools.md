@@ -4,13 +4,9 @@
 
 Workbench ist unser Erfassungssystem. Jede Offerte, jedes Projekt, jede Rechnung, jede Arbeitsleistung und jeden Kontakt erfassen wir im Workbench.
 
-An dieser Stelle wird es Zeit für eine Leseunterbrechung und Zeit für dich, zumindest fingertechnisch aktiv zu werden:
+An dieser Stelle wird es Zeit für eine Leseunterbrechung und Zeit für dich, zumindest fingertechnisch aktiv zu werden. [Öffne Workbench in deinem Browser.](https://workbench.feinheit.ch)
 
-Rufe den folgenden Link auf: https://workbench.feinheit.ch
-
-Per Klick auf den Login Button kannst du dich mit dem Feinheit Google Account anmelden. Nimm dir nun 15 Minuten Zeit und stöbere durch das Dashboard, die Projekte und erlange einen ersten Eindruck vom Noch-Mysterium Workbench. Aber keine Angst, du bekommst eine Schulung von uns und wirst sicher alles Schritt für Schritt lernen.
-
-[Eine Workbench-Anleitung findest Du hier.](https://docs.google.com/document/d/1R-TjjO-phxiUXRWm6rwFndj0zsGAwQRHeiUvQsQgNzk/edit)
+Per Klick auf den Login Button kannst du dich mit dem Feinheit Google Account anmelden. Nimm dir nun 15 Minuten Zeit und stöbere durch das Dashboard, die Projekte und erlange einen ersten Eindruck vom Noch-Mysterium Workbench. Aber keine Angst, du bekommst eine Schulung von uns und wirst sicher alles Schritt für Schritt lernen. [Eine Workbench-Anleitung findest Du hier.](https://docs.google.com/document/d/1R-TjjO-phxiUXRWm6rwFndj0zsGAwQRHeiUvQsQgNzk/edit)
 
 ## Datenablage
 
