@@ -1,4 +1,11 @@
 site_name: Mitarbeiter*innenhandbuch
+site_author: Feinheit AG
+site_url: https://docs.feinheit.ch/handbuch/
+use_directory_urls: false
 theme: material
+repo_url: https://github.com/feinheit/handbuch/
+lang:
+  - de
 markdown_extensions:
   - footnotes
+  - smarty
