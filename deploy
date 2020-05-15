@@ -1,4 +1,0 @@
-#!/bin/sh
-
-venv/bin/python -m mkdocs build
-rsync -avzhP --delete site/ www-data@feinheit06.nine.ch:docs.feinheit.ch/handbuch/
