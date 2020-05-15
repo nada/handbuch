@@ -16,6 +16,6 @@ Im Allgemeinen versuchen wir, die Kunden direkt für Schaltkosten aufkommen zu l
 
 Der Ablauf bei Schaltkosten ist wie folgt:
 
-* Die Schaltkosten werden dem Kunden vorab in Rechnung gestellt. Es liegt in der Verantwortung der Projektkoordinator*innen, dass die Rechungsnr., der Schaltkostenbetrag und der Zeitraum, in welchem die Schaltkosten anfallen **jeweils bis spätestens 19. des Vormonats** in folgende Tabelle einzutragen: https://drive.google.com/drive/folders/1BLCiZx_sp_yfjuSFcYglrBByPdnxbbNe
-* Sobald die Rechnung bezahlt wurde, veranlasst die Rolle Buchhaltung einen Übertrag auf das Kampagnen-Konto.
-* Die Rolle Buchhaltung übernimmt die periodische Meldung der notwendigen Kreditkartenlimite an die ZKB, falls die zu erwartenden Ausgaben pro Monat den sowieso verfügbaren Betrag von CHF 10’000 übersteigen.
+- Die Schaltkosten werden dem Kunden vorab in Rechnung gestellt. Es liegt in der Verantwortung der Projektkoordinator*innen, dass die Rechungsnr., der Schaltkostenbetrag und der Zeitraum, in welchem die Schaltkosten anfallen __jeweils bis spätestens 19. des Vormonats__ in folgende Tabelle einzutragen: [Planung Limite Kampagnen-Kreditkarte](https://drive.google.com/drive/folders/1BLCiZx_sp_yfjuSFcYglrBByPdnxbbNe)
+- Sobald die Rechnung bezahlt wurde, veranlasst die Rolle Buchhaltung einen Übertrag auf das Kampagnen-Konto.
+- Die Rolle Buchhaltung übernimmt die periodische Meldung der notwendigen Kreditkartenlimite an die ZKB, falls die zu erwartenden Ausgaben pro Monat den sowieso verfügbaren Betrag von CHF 10’000 übersteigen.
