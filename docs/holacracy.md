@@ -2,6 +2,7 @@
 
 Bei uns herrscht eine flache Hierarchie, es können eigene Ideen vorangetrieben werden und jeder kann seine Kreativität in den Projekten mit einbringen. Zu diesem Zweck setzen wir seit November 2018 auf Holacracy.
 
+
 ## Wieso, weshalb, warum?
 
 Holacracy ist eine Art Betriebssystem, welches unsere Zusammenarbeit untereinander strukturiert.
@@ -10,7 +11,8 @@ Holacracy funktioniert über Spannungen. Bei Holacracy reagierst du in einer Rei
 
 Von Holacracy erwarten wir uns eine Möglichkeit zur selbstständigeren Arbeitsgestaltung, Möglichkeiten zum Unternehmertum innerhalb des Purposes von Feinheit und zu mehr echter Verantwortung und Gestaltungsmöglichkeiten, mehr Flexibilität innerhalb der Projekte für unsere Kunden und mehr Sinnhaftigkeit innerhalb der individuellen Arbeit.
 
-Die Firma Xpreneurs hat uns in Holacracy geschult und unterstützt uns noch immer. Auf ihrer Homepage findest du diverse hilfreiche Informationen. https://xpreneurs.co/holacracy/
+Die Firma [Xpreneurs](https://xpreneurs.co/holacracy/) hat uns in Holacracy geschult und unterstützt uns noch immer. Auf ihrer Homepage findest du diverse hilfreiche Informationen.
+
 
 ## Die wichtigsten Begriffe für den Anfang
 
