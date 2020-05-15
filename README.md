@@ -7,6 +7,6 @@
 
 ## Deployment
 
-Aktualisieren der Version auf https://feinheit.ch/handbuch/index.html:
+Aktualisieren der Version auf https://docs.feinheit.ch/handbuch/:
 
     ./deploy
