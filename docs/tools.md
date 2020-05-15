@@ -10,15 +10,15 @@ Rufe den folgenden Link auf: https://workbench.feinheit.ch
 
 Per Klick auf den Login Button kannst du dich mit dem Feinheit Google Account anmelden. Nimm dir nun 15 Minuten Zeit und stöbere durch das Dashboard, die Projekte und erlange einen ersten Eindruck vom Noch-Mysterium Workbench. Aber keine Angst, du bekommst eine Schulung von uns und wirst sicher alles Schritt für Schritt lernen.
 
-Anleitung: https://docs.google.com/document/d/1R-TjjO-phxiUXRWm6rwFndj0zsGAwQRHeiUvQsQgNzk/edit#heading=h.5rj80mv0v31x
+[Eine Workbench-Anleitung findest Du hier.](https://docs.google.com/document/d/1R-TjjO-phxiUXRWm6rwFndj0zsGAwQRHeiUvQsQgNzk/edit)
 
 ## Datenablage
 
 Für die Datenablage nutzen wir Google Drive. Alles notwendige und die Serverstruktur wird dir in deinem Team gezeigt. Und falls du mal etwas nicht findest, frag einfach nach.
 
-Aktuelle Projekte findest du in den Shared Drives: https://drive.google.com/drive/shared-drives
+Aktuelle Projekte findest du in den [Shared Drives](https://drive.google.com/drive/shared-drives).
 
-Links zur historischen Dateiablage: https://sites.google.com/a/feinheit.ch/stuff/administration/scanner/drive
+Ältere Daten haben wir nicht in die Shared Drives migriert. [Hier](https://sites.google.com/a/feinheit.ch/stuff/administration/scanner/drive) findest Du eine Liste von Links zu diesen Daten.
 
 ## GlassFrog
 
@@ -27,14 +27,14 @@ Im GlassFrog findest du die aktuelle Unternehmensstruktur, sowie wichtige Inform
 ## Basecamp
 
 Wir verwenden Basecamp für die Projektkommunikation, sowohl intern als auch extern. Basecamp sorgt dafür, dass die Informationen zentral abgelegt und einsehbar sind für alle, die in Projekten mitarbeiten. Basecamp bietet Message Boards für Austausch, Todo-Listen und weiteres mehr.
-https://3.basecamp.com/3879542/projects
+
+[Das Feinheit-Basecamp findest du hier.](https://3.basecamp.com/3879542/projects)
 
 ## Slack
 
 Auf Slack gibts Spam, Spielereien und direkten, unverbindlichen Austausch mit Feinheit und anderen Menschen, die an der Fabrikstrasse ein- und ausgehen.
 
-Feinheit https://feinheit.slack.com/
-Fabrikstrasse https://fabrikstrasse.slack.com/
+Im [Feinheit Slack Workspace](https://feinheit.slack.com/) sind nur Feinis zu Hause, der [Fabrikstrasse](https://fabrikstrasse.slack.com/) Workspace ist auch offen für alle anderen Parteien an der Fabrikstrasse.
 
 Für wichtige Informationen musst Du einen anderen Kanal wählen. Die Informationen auf Slack sind nach einer gewissen Zeit nicht mehr verfügbar. Es wird von niemandem erwartet, die Informationen auf Slack zu lesen und darauf zu reagieren.
 
