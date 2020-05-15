@@ -35,13 +35,13 @@ Policy Einkäufe und Ausgaben: https://de.glassfrog.com/organizations/15492/orgn
 
 ## Home Office
 
-Alle Mitarbeitenden[^1] haben das Recht, ihre Arbeit in den Feinheit-Büroräumlichkeiten, aber auch im Home Office zu erledigen. Die Voraussetzung dafür ist, dass die Arbeiten erledigt werden, die Kommunikation fliesst und Abmachungen eingehalten werden.
+Alle Mitarbeitenden[^ho-regelung] haben das Recht, ihre Arbeit in den Feinheit-Büroräumlichkeiten, aber auch im Home Office zu erledigen. Die Voraussetzung dafür ist, dass die Arbeiten erledigt werden, die Kommunikation fliesst und Abmachungen eingehalten werden.
 
 Grundsätzlich gilt, dass Home Office abgesprochen werden und rechtzeitig bekannt gegeben werden muss. Gemäss Arbeitsvertrag musst du Home Office mit den Vorgesetzten absprechen, im Alltag, welcher von Holacracy und Arbeit in Rollen geprägt ist, kommen jedoch den Projektteams und den Kreisen, in denen du Rollen besetzt, eine höhere Bedeutung zu. Was im Einzelfall eine “rechtzeitige Bekanntgabe” ist, hängt von deinen Tätigkeiten ab, und wie fest du und andere auf die Zusammenarbeit angewiesen sind im spezifischen Moment.
 
 Es besteht keine Erwartung, dass Du im Home Office (oder auch im Büro) jederzeit am Arbeitsplatz sein und rasch antworten musst. Dies würde Flow verunmöglichen, und wäre auch unverhältnismässig. Damit im Ausnahmefall trotzdem rasch reagiert werden kann, trage bitte in der [Liste Kürzel Direktwahl](https://docs.google.com/spreadsheets/d/1oqF--dXBUlmKxGKjb9OJBZwhUH-PvAkstmaaKN1OtPQ/edit) eine Telefonnummer ein, wo Du während der Arbeitszeit erreichbar bist, und im Normalfall auf ausdrücklichen Wunsch hin innerhalb einer Stunde zurückrufen kannst. Als ausdrücklicher Wunsch gelten mehrere verpasste Anrufe von einer anderen Nummer auf der entsprechenden Liste, oder ein SMS mit einer Angabe einer Begründung für den Rückruf.
 
-[^1]: Wenn nicht abweichende individuelle Regelungen getroffen wurden.
+[^ho-regelung]: Wenn nicht abweichende individuelle Regelungen getroffen wurden.
 
 ## Kochen und Essen
 

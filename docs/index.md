@@ -1,3 +1,5 @@
+Herzlich willkommen zum ...
+
 # Feinheit Mitarbeiter*innenhandbuch
 
 … und natürlich auch herzlich willkommen im Feinheit-Team! Die nächsten paar Seiten sollen dir helfen, dich im Feinheit-Kosmos schneller und besser zurecht zu finden.
@@ -26,14 +28,14 @@ Deine Feinheit-Gspänli
 
 ## Allgemeine Kontaktdaten
 
-Feinheit AG
-Fabrikstrasse 54
+Feinheit AG<br>
+Fabrikstrasse 54<br>
 8005 Zürich
 
-Feinheit Büro Bern
-Effingerstrasse 2
+Feinheit Büro Bern<br>
+Effingerstrasse 2<br>
 3011 Bern
 
-055 511 11 41
-beratung@feinheit.ch
+055 511 11 41<br>
+beratung@feinheit.ch<br>
 www.feinheit.ch

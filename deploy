@@ -1,8 +1,4 @@
- #!/bin/sh
+#!/bin/sh
 
-mkdir OUT
-(cd OUT && wget -mkp -E -np -H -D127.0.0.1 http://127.0.0.1:8009/index.md)
-sed -i -e 's/<head>/<head><meta charset="utf-8">/g' OUT/*/*html
-sed -i -e 's/.md.html/.html/g' OUT/*/*html
-for i in OUT/*/*.md.html; do mv -f $i $(echo $i|sed -e s/.md.html/.html/); done
-rsync -avzhP --delete OUT/127.0.0.1:8009/ www-data@feinheit06.nine.ch:feinheit.ch/htdocs/handbuch/
+venv/bin/python -m mkdocs build
+rsync -avzhP --delete site/ www-data@feinheit06.nine.ch:docs.feinheit.ch/handbuch/

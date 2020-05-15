@@ -1,0 +1,4 @@
+site_name: Mitarbeiter*innenhandbuch
+theme: material
+markdown_extensions:
+  - footnotes

@@ -1,5 +1,6 @@
 #!/bin/sh
 
 python3 -m venv venv
+venv/bin/pip install -U pip wheel setuptools
 venv/bin/pip install -r requirements.txt
-venv/bin/markdownserver
+venv/bin/python -m mkdocs serve
