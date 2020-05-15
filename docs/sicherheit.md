@@ -10,30 +10,15 @@ Feuerwehr: 118
 
 Das Erste-Hilfe-Material findest du in der Küche, im Schrank links neben dem Getränkekühlschrank:
 
-.
-
-
+![Erste Hilfe Material](images/erste-hilfe-material.jpg)
 
 
 ## Notfall Sammelplatz
 
 In einem Notfall (z.B. Gebäudebrand) müssen sich alle Mitarbeitenden am Sammelplatz einfinden. Der Feinheit-Sammelplatz befindet sich beim Unterstand Röntgenplatz.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Sammelplatz](images/sammelplatz-1.jpg)
+![Sammelplatz](images/sammelplatz-2.jpg)
 
 
 ## Spielregeln im Umgang mit Drogen, Schutz der persönlichen Integrität und psychosozialer Gesundheit
