@@ -2,7 +2,9 @@ site_name: Mitarbeiter-innenhandbuch
 site_author: Feinheit AG
 site_url: https://feinheit.github.io/handbuch/
 use_directory_urls: false
-theme: material
+theme:
+  name: material
+  language: de
 repo_url: https://github.com/feinheit/handbuch/
 markdown_extensions:
   - footnotes
