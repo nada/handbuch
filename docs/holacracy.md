@@ -14,6 +14,11 @@ Von Holacracy erwarten wir uns eine Möglichkeit zur selbstständigeren Arbeitsg
 Die Firma [Xpreneurs](https://xpreneurs.co/holacracy/) hat uns in Holacracy geschult und unterstützt uns noch immer. Auf ihrer Homepage findest du diverse hilfreiche Informationen.
 
 
+## Die äusseren Kreise
+
+Der Ankerkreis ist der [Verwaltungsrat](https://de.glassfrog.com/organizations/15492/orgnav/roles/11083947). Der Verwaltungsrats-Kreis hat einen einzigen Subkreis, den [Wirkungskreis](https://de.glassfrog.com/organizations/15492/orgnav/roles/11084007/overview). Der Wirkungskreis ist der äusserste operativ tätige Kreis. Bei der Arbeit im Alltag wirst du meistens Tätigkeiten ausüben im Rahmen des Wirkungskreises oder seiner Subkreise.
+
+
 ## Die wichtigsten Begriffe für den Anfang
 
 Die detaillierten Accountabilities findest du im Glassfrog.
