@@ -72,13 +72,11 @@ Kaufst du etwas für die Firma ein und bezahlst es mit deinem Geld, werden diese
 * Es können nur Beträge ausbezahlt werden, welche mit einer **Quittung** belegt sind.
 * Für die Abgabe der Spesenabrechnungen/Quittungen sind die Mitarbeitenden **selber verantwortlich**.
 
-Spesen müssen im Workbench erfasst werden. Spesen, welche im Rahmen von Kundenprojekten angefallen sind, am Besten direkt auf das jeweilige Projekt, für interne Spesen das passende interne Projekt, oder falls nichts passt auf das Projekt des Wirkungskreises buchen. Beim Klick auf “+Kosten” erscheint folgendes Formular. Falls Du die Ausgabe aus der eigenen Tasche bezahlt hast, setze das “Mit eigenem Geld bezahlt” Flag.
+Spesen müssen im Workbench erfasst werden. Spesen, welche im Rahmen von Kundenprojekten angefallen sind, am Besten direkt auf das jeweilige Projekt, für interne Spesen das passende interne Projekt oder sonst das Projekt des passendsten Kreises. Beim Klick auf “+Kosten” erscheint ein Formular, wo du bei den Fremdkosten den Betrag eingibst. Falls Du die Ausgabe aus der eigenen Tasche bezahlt hast, setze das “Mit eigenem Geld bezahlt” Flag.
 
-Beispiel:
+Um die Spesen ausbezahlt zu erhalten, musst du im Workbench eine Spesenabrechnung erstellen. Gehe dazu zu den [Spesenabrechnungen](https://workbench.feinheit.ch/expenses/), klicke auf "+Spesenabrechnung", und wähle alle Speseneinträge auf, für welche du Quittungen einreichen willst. Das PDF für die Administration kannst du erst ausdrucken, wenn du die Spesenabrechnung abschliesst. Danach ist die Abrechnung nicht mehr bearbeitbar.
 
-Spesenabrechnung drucken: Workbench / Buchhaltung / Spesenabrechnung / +Spesenabrechnung / sichern / zurück zu Spesenabrechnungen / Häkchen setzen bei “ist geschlossen” und sichern / PDF drucken
-
-Die gedruckten Spesenabrechnung inkl. Quittungen sind im Fächli «Spesen» zu deponieren.
+Die gedruckte Spesenabrechnung inkl. Quittungen musst du im Fächli «Spesen» ablegen. Der Betrag wird dir beim nächsten Kreditorenlauf ausbezahlt.
 
 ## Info- & Lesezeit
 
