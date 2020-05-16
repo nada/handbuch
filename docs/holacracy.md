@@ -21,7 +21,7 @@ Der Ankerkreis ist der [Verwaltungsrat](https://de.glassfrog.com/organizations/1
 
 ## Die wichtigsten Begriffe für den Anfang
 
-Die detaillierten Accountabilities findest du im Glassfrog.
+Hier findest du die wichtigsten Begriffe für den Anfang:
 
 * **Lead Link**: Der LeadLink hält den Kreis zusammen und nimmt Anfragen anderer Kreise entgegen. Er ist für die Rollenzuweisungen innerhalb des Kreises verantwortlich.
 * **Rep Link**: Vertritt den Kreis gegen aussen.
