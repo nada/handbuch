@@ -77,7 +77,7 @@ Als Diskriminierung gilt jede Äusserung oder Handlung, die darauf abzielt, eine
 
 #### Gewalt
 
-Die Gewalt "von aussen" beinhaltet in der Regel physische Gewalt sowie verbale Beleidigungen, Bedrohungen, die von Außenstehenden, (z.B. Kunden) gegenüber Personen bei der Arbeit ausgesprochen bzw. ausgeübt werden, wobei Gesundheit, Sicherheit oder Wohlbefinden der Beschäftigten gefährdet wird. Die Gewalt kann auch einen rassistischen oder sexuellen Aspekt haben.
+Die Gewalt «von aussen» beinhaltet in der Regel physische Gewalt sowie verbale Beleidigungen, Bedrohungen, die von Außenstehenden, (z.B. Kunden) gegenüber Personen bei der Arbeit ausgesprochen bzw. ausgeübt werden, wobei Gesundheit, Sicherheit oder Wohlbefinden der Beschäftigten gefährdet wird. Die Gewalt kann auch einen rassistischen oder sexuellen Aspekt haben.
 
 Aggressive oder gewalttätige Handlungen nehmen folgende Formen an:
 
