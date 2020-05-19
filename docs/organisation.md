@@ -30,7 +30,7 @@ Den besten Überblick über unsere Services bekommst du aber über unsere Websei
 
 ## Holding & Schwesterfirma
 
-Die Feinheit AG ist Teil der Holding Struktur von Die Bruchpiloten AG. Die Dachgesellschaft hält an verschiedenen Firmen Beteiligungen, darunter Feinheit und die Blindflug Studios AG, welche durch eine häufige Zusammenarbeit und die räumliche Nähe eng miteinander verbunden sind. Die Blindflug Studios AG entwickelt Spiele für unterschiedlichste Plattformen und hat Kassenschlager wie “First Strike” herausgebracht.
+Die Feinheit AG ist Teil der Holding Struktur von Die Bruchpiloten AG. Die Dachgesellschaft hält an verschiedenen Firmen Beteiligungen, darunter Feinheit und die Blindflug Studios AG, welche durch eine häufige Zusammenarbeit und die räumliche Nähe eng miteinander verbunden sind. Die Blindflug Studios AG entwickelt Spiele für unterschiedlichste Plattformen und hat Kassenschlager wie «First Strike» herausgebracht.
 
 
 ## Portrait

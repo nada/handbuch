@@ -11,7 +11,7 @@ Im Folgenden findest du Informationen zu unserer Geschichte, zur Philosophie und
 Doch erst einmal laden wir dich ein, auf die Reise durch das Feinheit-Universum mitzukommen und uns ein bisschen besser kennenzulernen.
 Viel Spass und wir freuen uns, dich als Teil von unseres Teams begrüssen zu dürfen.
 
-Deine Feinheit-Gspänli
+Deine Feinheit-Gspänli!
 
 
 ## Abschnitte
