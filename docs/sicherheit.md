@@ -47,7 +47,7 @@ Feinheit unternimmt sein Möglichstes, um die Mitarbeitenden vor physischer und 
 
 ### Was ist gemeint mit (Definitionen)
 
-#### Mobbing / Belästigung / psychische Gewalt
+#### Mobbing / Belästigung / Psychische Gewalt
 
 Mobbing (man spricht auch von Belästigung oder von psychischer Gewalt) bedeutet mehrfach wiederholtes, unangemessenes Verhalten gegenüber einem Arbeitnehmer oder einer Gruppe von Arbeitnehmern mit dem Ziel, die belästigte Person zu schikanieren, zu demütigen, zu bedrohen oder ihre Würde zu unterminieren. Das Mobbingverhalten, das meist innerhalb einer Organisation auftritt, kann sowohl verbale als auch körperliche Angriffe beinhalten, ebenso aber auch subtilere Formen wie soziale Ausgrenzung. Mobbinghandlungen können beispielsweise Angriffe sein auf
 
