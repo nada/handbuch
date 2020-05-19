@@ -58,7 +58,7 @@ Falls mehrere Vorschläge den gleichen Bereich im Handbuch betreffen, kann es ge
 
 Alternativ kannst du Änderungen am Mitarbeiter*innenhandbuch natürlich auch lokal vorbereiten. Dazu musst du das Projekt klonen und den Server starten:
 
-    git clone https://github.com/feinheit/handbuch
+    git clone https://github.com/feinheit/handbuch.git
     cd handbuch
     ./serve
 
