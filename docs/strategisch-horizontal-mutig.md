@@ -6,7 +6,7 @@ Wir gehen strategisch in den für jede Disziplin dynamisch zusammengestellten Pr
 
 ## Der Feinheit Purpose (Stand November 2019)
 
-"Feinheit entwickelt Kommunikationslösungen und digitale Werkzeuge, welche diese Welt verbessern und den Menschen Gutes tun."
+«Feinheit entwickelt Kommunikationslösungen und digitale Werkzeuge, welche diese Welt verbessern und den Menschen Gutes tun.»
 
 ## Unsere Ziele und Visionen
 
@@ -22,4 +22,4 @@ Ob Analyse, Beratung, Strategie & Konzeption, Facilitation, Integration, Kreatio
 
 «Feinheit legt in allen Belangen Wert auf Nachhaltigkeit.»
 
-«Die Mitarbeiter*innen bei Feinheit sollen ihre “Work-life balance“ stets pflegen können.»
+«Die Mitarbeiter*innen bei Feinheit sollen ihre ‹Work-life balance› stets pflegen können.»
