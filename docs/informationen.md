@@ -4,7 +4,7 @@
 
 Die Übersicht über deine Arbeitszeit findest du im [Jahresarbeitszeit-Bericht](https://workbench.feinheit.ch/report/annual-working-time/).
 
-Nicht innerhalb des Kalenderjahres bezogene Ferientage müssen spätestens im ersten Quartal des Folgejahres vollständig bezogen werden. Der Gleitzeitsaldo wird unter Berücksichtigung der Regelung aus dem Arbeitszeitreglement durch die [Arbeitszeitchef*in](https://de.glassfrog.com/org/15492/roles/11266622) ins neue Jahr übernommen. Die nicht bezogenen Ferientage werden im Workbench als positiver Gleitzeitsaldo aufgeführt. Für die Anzeige im Abwesenheitskalender von Workbench macht es trotzdem Sinn, die Abwesenheit zu erfassen. Achte aber darauf, dass Du “0 Tage” erfasst.Dies vereinfacht die Kontrolle der Ferienguthaben innerhalb eines Kalenderjahres.
+Nicht innerhalb des Kalenderjahres bezogene Ferientage müssen spätestens im ersten Quartal des Folgejahres vollständig bezogen werden. Der Gleitzeitsaldo wird unter Berücksichtigung der Regelung aus dem Arbeitszeitreglement durch die [Arbeitszeitchef*in](https://de.glassfrog.com/org/15492/roles/11266622) ins neue Jahr übernommen. Die nicht bezogenen Ferientage werden im Workbench als positiver Gleitzeitsaldo aufgeführt. Für die Anzeige im Abwesenheitskalender von Workbench macht es trotzdem Sinn, die Abwesenheit zu erfassen. Achte aber darauf, dass Du «0 Tage» erfasst.Dies vereinfacht die Kontrolle der Ferienguthaben innerhalb eines Kalenderjahres.
 
 Weitere Details findest Du im [Arbeitszeitreglement](https://drive.google.com/drive/folders/1U_ZGs9IYaHJuicvYLPf4fAtdCld4eXJ3).
 
@@ -37,7 +37,7 @@ Die jeweils aktuelle Regelung findest du in der [Policy Einkäufe und Ausgaben](
 
 Alle Mitarbeitenden[^ho-regelung] haben das Recht, ihre Arbeit in den Feinheit-Büroräumlichkeiten, aber auch im Home Office zu erledigen. Die Voraussetzung dafür ist, dass die Arbeiten erledigt werden, die Kommunikation fliesst und Abmachungen eingehalten werden.
 
-Grundsätzlich gilt, dass Home Office abgesprochen werden und rechtzeitig bekannt gegeben werden muss. Gemäss Arbeitsvertrag musst du Home Office mit den Vorgesetzten absprechen, im Alltag, welcher von Holacracy und Arbeit in Rollen geprägt ist, kommen jedoch den Projektteams und den Kreisen, in denen du Rollen besetzt, eine höhere Bedeutung zu. Was im Einzelfall eine “rechtzeitige Bekanntgabe” ist, hängt von deinen Tätigkeiten ab, und wie fest du und andere auf die Zusammenarbeit angewiesen sind im spezifischen Moment.
+Grundsätzlich gilt, dass Home Office abgesprochen werden und rechtzeitig bekannt gegeben werden muss. Gemäss Arbeitsvertrag musst du Home Office mit den Vorgesetzten absprechen, im Alltag, welcher von Holacracy und Arbeit in Rollen geprägt ist, kommen jedoch den Projektteams und den Kreisen, in denen du Rollen besetzt, eine höhere Bedeutung zu. Was im Einzelfall eine «rechtzeitige Bekanntgabe» ist, hängt von deinen Tätigkeiten ab, und wie fest du und andere auf die Zusammenarbeit angewiesen sind im spezifischen Moment.
 
 Es besteht keine Erwartung, dass Du im Home Office (oder auch im Büro) jederzeit am Arbeitsplatz sein und rasch antworten musst. Dies würde Flow verunmöglichen, und wäre auch unverhältnismässig. Damit im Ausnahmefall trotzdem rasch reagiert werden kann, trage bitte in der [Liste Kürzel Direktwahl](https://docs.google.com/spreadsheets/d/1oqF--dXBUlmKxGKjb9OJBZwhUH-PvAkstmaaKN1OtPQ/edit) eine Telefonnummer ein, wo Du während der Arbeitszeit erreichbar bist, und im Normalfall auf ausdrücklichen Wunsch hin innerhalb einer Stunde zurückrufen kannst. Als ausdrücklicher Wunsch gelten mehrere verpasste Anrufe von einer anderen Nummer auf der entsprechenden Liste, oder ein SMS mit einer Angabe einer Begründung für den Rückruf.
 
@@ -72,11 +72,11 @@ Kaufst du etwas für die Firma ein und bezahlst es mit deinem Geld, werden diese
 * Es können nur Beträge ausbezahlt werden, welche mit einer **Quittung** belegt sind.
 * Für die Abgabe der Spesenabrechnungen/Quittungen sind die Mitarbeitenden **selber verantwortlich**.
 
-Spesen müssen im Workbench erfasst werden. Spesen, welche im Rahmen von Kundenprojekten angefallen sind, am Besten direkt auf das jeweilige Projekt, für interne Spesen das passende interne Projekt, oder falls nichts passt auf das Projekt des Wirkungskreises buchen. Beim Klick auf “+Kosten” erscheint folgendes Formular. Falls Du die Ausgabe aus der eigenen Tasche bezahlt hast, setze das “Mit eigenem Geld bezahlt” Flag.
+Spesen müssen im Workbench erfasst werden. Spesen, welche im Rahmen von Kundenprojekten angefallen sind, am Besten direkt auf das jeweilige Projekt, für interne Spesen das passende interne Projekt, oder falls nichts passt auf das Projekt des Wirkungskreises buchen. Beim Klick auf «+Kosten» erscheint folgendes Formular. Falls Du die Ausgabe aus der eigenen Tasche bezahlt hast, setze das «Mit eigenem Geld bezahlt» Flag.
 
 Beispiel:
 
-Spesenabrechnung drucken: Workbench / Buchhaltung / Spesenabrechnung / +Spesenabrechnung / sichern / zurück zu Spesenabrechnungen / Häkchen setzen bei “ist geschlossen” und sichern / PDF drucken
+Spesenabrechnung drucken: Workbench / Buchhaltung / Spesenabrechnung / +Spesenabrechnung / sichern / zurück zu Spesenabrechnungen / Häkchen setzen bei «ist geschlossen» und sichern / PDF drucken
 
 Die gedruckten Spesenabrechnung inkl. Quittungen sind im Fächli «Spesen» zu deponieren.
 

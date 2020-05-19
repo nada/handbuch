@@ -38,7 +38,7 @@ Für Informationen ans Gesamtteam und für Verbindliches verwendest Du die regel
 
 ## Google Calendar
 
-Bitte trage alle deine Abwesenheiten aussagekräftig im “Out of Office-Kalender” ein.
+Bitte trage alle deine Abwesenheiten aussagekräftig im «Out of Office-Kalender» ein.
 
 Bitte halte deinen Kalender aktuell und trage deine Arbeitstage/Abwesenheiten auch in deinem persönlichen Kalender ein.
 
