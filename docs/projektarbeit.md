@@ -2,7 +2,13 @@
 
 ## Stunden aufschreiben
 
-Unser Umsatz resultiert aus den Dienstleistungen, welche wir für unsere Kundschaft erbringen.
+Unser Umsatz resultiert aus den Dienstleistungen, welche wir für unsere Kundschaft erbringen. Deshalb ist es wichtig, dass du deine Stunden vollständig und genau auf die jeweiligen Projekte aufschreibst.
+
+## Projekte erstellen
+
+Projekte zusammenführen ist einfacher als Projekte auseinanderzunehmen. Wenn du dir nicht sicher bist, ob ein Arbeitsschritt zu einem neuen Projekt gehört oder nicht, dann erstelle im Zweifelsfall lieber ein neues Projekt.
+
+Achte bei der Beschriftung darauf, dass der Projekttitel sowohl die Kundschaft als auch die Projektbezeichnung selbst enthält. __Strategische Beratung__ oder __Wartung 2020__ sind beispielsweise nicht optimale Beispiele, besser sind __Kundschaft A: Strategische Beratung__ und __example.com: Wartung 2020__.
 
 ## Weiterverrechnung von Kosten und Spesen
 
