@@ -62,6 +62,8 @@ Alternativ kannst du Änderungen am Mitarbeiter*innenhandbuch natürlich auch lo
     cd handbuch
     ./serve
 
+Jetzt kannst du im Browser die [Webseite lokal unter http://127.0.0.1:8000/ öffnen](http://127.0.0.1:8000/).
+
 Am besten, du erstellst einen eigenen Branch für die Änderung:
 
     git checkout -b mk/neuer-abschnitt
