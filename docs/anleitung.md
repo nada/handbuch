@@ -12,6 +12,8 @@ Denke daran, dass das Mitarbeiter*innenhandbuch öffentlich ist.
 
     ![](images/anleitung/02-commit.png)
     Es ist hilfreich für die Reviewer*innen, wenn du den Änderung einen sinnvollen Titel verpasst. Jedoch nicht zwingend notwendig.
+    
+    Eine Erklärung, wie du deinen Text formatieren kannst, findest du auf der Seite [«Basic writing and formatting syntax»](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax).
 
 3. Erstelle den Pull Request, um deine gespeicherten Änderungen vorzuschlagen:
 
