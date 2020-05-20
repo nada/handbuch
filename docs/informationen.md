@@ -72,7 +72,7 @@ Kaufst du etwas für die Firma ein und bezahlst es mit deinem Geld, werden diese
 * Es können nur Beträge ausbezahlt werden, welche mit einer **Quittung** belegt sind.
 * Für die Abgabe der Spesenabrechnungen/Quittungen sind die Mitarbeitenden **selber verantwortlich**.
 
-Spesen müssen im Workbench erfasst werden. Spesen, welche im Rahmen von Kundenprojekten angefallen sind, am Besten direkt auf das jeweilige Projekt, für interne Spesen das passende interne Projekt oder sonst das Projekt des passendsten Kreises. Beim Klick auf «+Kosten» erscheint ein Formular, wo du bei den Fremdkosten den Betrag eingibst. Falls Du die Ausgabe aus der eigenen Tasche bezahlt hast, setze das «Mit eigenem Geld bezahlt» Flag.
+Spesen müssen im Workbench erfasst werden. Spesen, welche im Rahmen von Kundenprojekten angefallen sind, am besten direkt auf das jeweilige Projekt, für interne Spesen das passende interne Projekt oder sonst das Projekt des passendsten Kreises. Beim Klick auf «+Kosten» erscheint ein Formular, wo du bei den Fremdkosten den Betrag eingibst. Falls Du die Ausgabe aus der eigenen Tasche bezahlt hast, setze das «Mit eigenem Geld bezahlt» Flag.
 
 Um die Spesen ausbezahlt zu erhalten, musst du im Workbench eine Spesenabrechnung erstellen. Gehe dazu zu den [Spesenabrechnungen](https://workbench.feinheit.ch/expenses/), klicke auf "+Spesenabrechnung", und wähle alle Speseneinträge auf, für welche du Quittungen einreichen willst. Das PDF für die Administration kannst du erst ausdrucken, wenn du die Spesenabrechnung abschliesst. Danach ist die Abrechnung nicht mehr bearbeitbar.
 
